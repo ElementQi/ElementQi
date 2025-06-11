@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Interesting Python Projects
 - 🌱 I’m currently learning different optimization algorithms on LLMs
 - 💞️ I’m looking to collaborate on *Real Virtual World*
-- 📫 How to reach me >> limq01@foxmail.com or lmq1033834827@gmail.com
+- 📫 How to reach me >> limq01@foxmail.com or mengqili1@link.cuhk.edu.cn
 - 💻 My blog >> https://blog.csdn.net/Kullpar
 
 <!---
